@@ -3,6 +3,9 @@
 ### Project Goal
 This project uses data from South Korea in January-June 2020 to explore features of the pandemic at that time and make recommendations for a country facing similar challenges. 
 
+### Datasets
+CSV files are from the "Data Science for COVID-19 (DS4C) Kaggle [dataset](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset).
+
 ### Project Outline 
 - Import and inspect data
 - Understand the distribution of cases within the country
