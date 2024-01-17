@@ -1,7 +1,7 @@
 # Covid-Analysis-South-Korea-2020
 
-### Project Goal
-This project uses data from South Korea in January-June 2020 to explore features of the pandemic at that time and make recommendations for a country facing similar challenges. 
+### Project Summary
+This project uses data from South Korea in January-June 2020 to explore features of the pandemic at that time and make recommendations for a country facing similar challenges. Please note that github does not render the interactive plotly graphs used in this analysis, however Plotly was used heavily for the visualizations in this project.
 
 ### Datasets
 CSV files are from the "Data Science for COVID-19 (DS4C) Kaggle [dataset](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset).
